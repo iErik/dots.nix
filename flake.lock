@@ -4,10 +4,34 @@
       "inputs": {
         "flake-compat": "flake-compat",
         "nixpkgs": [
+          "niri",
           "wallpapers",
           "nixpkgs"
         ],
         "rust-overlay": "rust-overlay"
+      },
+      "locked": {
+        "lastModified": 1770895252,
+        "narHash": "sha256-TUGZVDcC5xsrWVnpBNosAG1cTy+aWchCWXPyeLZdnGM=",
+        "ref": "refs/heads/main",
+        "rev": "2c86d41d07471f518e24f5cd1f586e4d2a32d12c",
+        "revCount": 1331,
+        "type": "git",
+        "url": "https://codeberg.org/LGFae/awww"
+      },
+      "original": {
+        "type": "git",
+        "url": "https://codeberg.org/LGFae/awww"
+      }
+    },
+    "awww_2": {
+      "inputs": {
+        "flake-compat": "flake-compat_2",
+        "nixpkgs": [
+          "wallpapers",
+          "nixpkgs"
+        ],
+        "rust-overlay": "rust-overlay_2"
       },
       "locked": {
         "lastModified": 1774191766,
@@ -99,18 +123,35 @@
         "type": "github"
       }
     },
+    "flake-compat_2": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1761588595,
+        "narHash": "sha256-XKUZz9zewJNUj46b4AJdiRZJAvSZ0Dqj2BNfXvFlJC4=",
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "rev": "f387cd2afec9419c8ee37694406ca490c3f34ee5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "type": "github"
+      }
+    },
     "niri": {
       "inputs": {
         "nixpkgs": [
           "nixpkgs"
-        ]
+        ],
+        "wallpapers": "wallpapers"
       },
       "locked": {
-        "lastModified": 1744393950,
-        "narHash": "sha256-3waDNzssSiUZuEu0vJo/Wt95+4VdH1eyiZn1XNZrq7c=",
+        "lastModified": 1775080282,
+        "narHash": "sha256-OzNXHXDZvzxampyiaEeRTiroOSWe5twj6d251+adg/o=",
         "owner": "iErik",
         "repo": "dots.niri",
-        "rev": "fdc1f88d20cfaaf55500feb54e6376c6d234a96e",
+        "rev": "b99e7b1b24551e2a4755bae743472cfafbb40336",
         "type": "github"
       },
       "original": {
@@ -163,10 +204,33 @@
         "niri": "niri",
         "nixpkgs": "nixpkgs",
         "nvim": "nvim",
-        "wallpapers": "wallpapers"
+        "wallpapers": "wallpapers_2"
       }
     },
     "rust-overlay": {
+      "inputs": {
+        "nixpkgs": [
+          "niri",
+          "wallpapers",
+          "awww",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1764038373,
+        "narHash": "sha256-M6w2wNBRelcavoDAyFL2iO4NeWknD40ASkH1S3C0YGM=",
+        "owner": "oxalica",
+        "repo": "rust-overlay",
+        "rev": "ab3536fe850211a96673c6ffb2cb88aab8071cc9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "oxalica",
+        "repo": "rust-overlay",
+        "type": "github"
+      }
+    },
+    "rust-overlay_2": {
       "inputs": {
         "nixpkgs": [
           "wallpapers",
@@ -191,6 +255,28 @@
     "wallpapers": {
       "inputs": {
         "awww": "awww",
+        "nixpkgs": [
+          "niri",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1774070915,
+        "narHash": "sha256-51WqcOmfdNmFI7U/zYn7L/prYmDyQz9XE9+LtPpHDl4=",
+        "ref": "refs/heads/main",
+        "rev": "63b92a64c2638d7d2286f6648373ff311d3f5646",
+        "revCount": 20,
+        "type": "git",
+        "url": "ssh://git@github.com/iErik/Wallpapers"
+      },
+      "original": {
+        "type": "git",
+        "url": "ssh://git@github.com/iErik/Wallpapers"
+      }
+    },
+    "wallpapers_2": {
+      "inputs": {
+        "awww": "awww_2",
         "nixpkgs": [
           "nixpkgs"
         ]
