@@ -45,7 +45,7 @@
           inputs.emacs.homeManagerModules.default
           inputs.cursors.homeManagerModules.default
           inputs.wallpapers.homeManagerModules.default
-          # inputs.fish.homeManagerModules.default
+          inputs.fish.homeManagerModules.default
         ];
       };
     };
