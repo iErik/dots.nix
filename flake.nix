@@ -4,11 +4,6 @@
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
 
-    wallpapers = {
-      url = "git+ssh://git@github.com/iErik/Wallpapers";
-      inputs.nixpkgs.follows = "nixpkgs";
-    };
-
     cursors = {
       url = "github:iErik/dots.cursors";
       inputs.nixpkgs.follows = "nixpkgs";
@@ -44,7 +39,6 @@
           inputs.nvim.homeManagerModules.default
           inputs.emacs.homeManagerModules.default
           inputs.cursors.homeManagerModules.default
-          inputs.wallpapers.homeManagerModules.default
           inputs.fish.homeManagerModules.default
         ];
       };
