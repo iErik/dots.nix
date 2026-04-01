@@ -1,0 +1,215 @@
+{
+  "nodes": {
+    "awww": {
+      "inputs": {
+        "flake-compat": "flake-compat",
+        "nixpkgs": [
+          "wallpapers",
+          "nixpkgs"
+        ],
+        "rust-overlay": "rust-overlay"
+      },
+      "locked": {
+        "lastModified": 1774191766,
+        "narHash": "sha256-bvO+gfuUOVUiBEwAJ5A2RjpysPzCfyXD+DM8piOa1+4=",
+        "ref": "refs/heads/main",
+        "rev": "7a8fc2e646b97e5ae508a44d3449e3b41345d456",
+        "revCount": 1336,
+        "type": "git",
+        "url": "https://codeberg.org/LGFae/awww"
+      },
+      "original": {
+        "type": "git",
+        "url": "https://codeberg.org/LGFae/awww"
+      }
+    },
+    "cursors": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1774838848,
+        "narHash": "sha256-1HQ7rlNWYFh4WFT6h+dfaEFT3H0N3hbQ25fJf8pZFAo=",
+        "owner": "iErik",
+        "repo": "dots.cursors",
+        "rev": "3a47601dc11b9b7240cee0523b5798632bf9a96f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iErik",
+        "repo": "dots.cursors",
+        "type": "github"
+      }
+    },
+    "emacs": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1774036506,
+        "narHash": "sha256-j2wj2UgPUbR0UKMkJW25ofrKsrCpA3nE6Qwa7HowQA8=",
+        "owner": "iErik",
+        "repo": "dots.emacs",
+        "rev": "e74531f816a536b8c6fbef71bf61fc3d6a41ec1b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iErik",
+        "repo": "dots.emacs",
+        "type": "github"
+      }
+    },
+    "fish": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1775020149,
+        "narHash": "sha256-G2Xj2+vW1Ob0synVliwxydXwyTetS/kv28pctvRxUvo=",
+        "owner": "iErik",
+        "repo": "dots.fish",
+        "rev": "6a19b6e4862356ff9af83f2c876046c4bf7609b6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iErik",
+        "repo": "dots.fish",
+        "type": "github"
+      }
+    },
+    "flake-compat": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1761588595,
+        "narHash": "sha256-XKUZz9zewJNUj46b4AJdiRZJAvSZ0Dqj2BNfXvFlJC4=",
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "rev": "f387cd2afec9419c8ee37694406ca490c3f34ee5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "edolstra",
+        "repo": "flake-compat",
+        "type": "github"
+      }
+    },
+    "niri": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1744393950,
+        "narHash": "sha256-3waDNzssSiUZuEu0vJo/Wt95+4VdH1eyiZn1XNZrq7c=",
+        "owner": "iErik",
+        "repo": "dots.niri",
+        "rev": "fdc1f88d20cfaaf55500feb54e6376c6d234a96e",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iErik",
+        "repo": "dots.niri",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1774709303,
+        "narHash": "sha256-D3Q07BbIA2KnTcSXIqqu9P586uWxN74zNoCH3h2ESHg=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "8110df5ad7abf5d4c0f6fb0f8f978390e77f9685",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "nvim": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1774231228,
+        "narHash": "sha256-VLYTU1Us9R2f6aQAHArCNBu/gCmVK0PbDVxb6wk0hy8=",
+        "owner": "iErik",
+        "repo": "dots.nvim",
+        "rev": "58888d47bdb8083d79293f758fd8a9569553d1e3",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iErik",
+        "repo": "dots.nvim",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "cursors": "cursors",
+        "emacs": "emacs",
+        "fish": "fish",
+        "niri": "niri",
+        "nixpkgs": "nixpkgs",
+        "nvim": "nvim",
+        "wallpapers": "wallpapers"
+      }
+    },
+    "rust-overlay": {
+      "inputs": {
+        "nixpkgs": [
+          "wallpapers",
+          "awww",
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1764038373,
+        "narHash": "sha256-M6w2wNBRelcavoDAyFL2iO4NeWknD40ASkH1S3C0YGM=",
+        "owner": "oxalica",
+        "repo": "rust-overlay",
+        "rev": "ab3536fe850211a96673c6ffb2cb88aab8071cc9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "oxalica",
+        "repo": "rust-overlay",
+        "type": "github"
+      }
+    },
+    "wallpapers": {
+      "inputs": {
+        "awww": "awww",
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1774070915,
+        "narHash": "sha256-51WqcOmfdNmFI7U/zYn7L/prYmDyQz9XE9+LtPpHDl4=",
+        "ref": "refs/heads/main",
+        "rev": "63b92a64c2638d7d2286f6648373ff311d3f5646",
+        "revCount": 20,
+        "type": "git",
+        "url": "ssh://git@github.com/iErik/Wallpapers"
+      },
+      "original": {
+        "type": "git",
+        "url": "ssh://git@github.com/iErik/Wallpapers"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
