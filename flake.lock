@@ -71,11 +71,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775088357,
-        "narHash": "sha256-LSMxLftgeT+SDYFO7YhEAabFgbQ0Y8JgNEAqlum/zxU=",
+        "lastModified": 1775088971,
+        "narHash": "sha256-YfkE0ZYQ3gnSk4hlD3Rzmce8FznxWDbFojm73oYqZsw=",
         "owner": "iErik",
         "repo": "dots.fish",
-        "rev": "7fd70450edddf0589e107e574006746d378b003a",
+        "rev": "3a9379078150772588cb9b66c5334b3848626675",
         "type": "github"
       },
       "original": {
