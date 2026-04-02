@@ -71,11 +71,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775088971,
-        "narHash": "sha256-YfkE0ZYQ3gnSk4hlD3Rzmce8FznxWDbFojm73oYqZsw=",
+        "lastModified": 1775090851,
+        "narHash": "sha256-Rwmi0Sn4C2exYBlDf9hWgB6yVq0aQSv9qUtk2b5uglw=",
         "owner": "iErik",
         "repo": "dots.fish",
-        "rev": "3a9379078150772588cb9b66c5334b3848626675",
+        "rev": "e224276f4dd083b6beba1d02d0d0348b86d4ae5c",
         "type": "github"
       },
       "original": {
@@ -164,7 +164,8 @@
         "fish": "fish",
         "niri": "niri",
         "nixpkgs": "nixpkgs",
-        "nvim": "nvim"
+        "nvim": "nvim",
+        "tmux": "tmux"
       }
     },
     "rust-overlay": {
@@ -187,6 +188,26 @@
       "original": {
         "owner": "oxalica",
         "repo": "rust-overlay",
+        "type": "github"
+      }
+    },
+    "tmux": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1775092509,
+        "narHash": "sha256-N6eqwcuDyCtDdrn6DsnpFg3JmKJLEesQCQtnRvmJPDk=",
+        "owner": "iErik",
+        "repo": "dots.tmux",
+        "rev": "da27a3fcf06e1a52d7da8711d116cc66c1fa3738",
+        "type": "github"
+      },
+      "original": {
+        "owner": "iErik",
+        "repo": "dots.tmux",
         "type": "github"
       }
     },

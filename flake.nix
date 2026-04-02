@@ -28,6 +28,11 @@
       url = "github:iErik/dots.fish";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+
+    tmux = {
+      url = "github:iErik/dots.tmux";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
   outputs = { self, ... } @ inputs: {
@@ -37,9 +42,10 @@
         imports = [
           inputs.niri.homeManagerModules.default
           inputs.nvim.homeManagerModules.default
+          inputs.fish.homeManagerModules.default
+          inputs.tmux.homeManagerModules.default
           inputs.emacs.homeManagerModules.default
           inputs.cursors.homeManagerModules.default
-          inputs.fish.homeManagerModules.default
         ];
       };
     };
