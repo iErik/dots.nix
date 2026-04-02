@@ -234,11 +234,11 @@
         "tmux-sessionx": "tmux-sessionx"
       },
       "locked": {
-        "lastModified": 1775103324,
-        "narHash": "sha256-Nr9xbTxg+i7eDj3t9aOkQEr/3eKWp7/RyKBN7vykdGw=",
+        "lastModified": 1775103421,
+        "narHash": "sha256-acgQKyjam69aiE5quGbKGnG7xmbRZTmOFlU1yJfEilU=",
         "owner": "iErik",
         "repo": "dots.tmux",
-        "rev": "ef193876a35022473485de8ad6adab2aedcea10d",
+        "rev": "0027963c811797d44105d71d2acabdc252ee4285",
         "type": "github"
       },
       "original": {
