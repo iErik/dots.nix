@@ -165,11 +165,11 @@
         "wallpapers": "wallpapers"
       },
       "locked": {
-        "lastModified": 1776386542,
-        "narHash": "sha256-yhTLaoBpQK5HwK2jWmQzNkGII9+LyNP8zNRppqj8npA=",
+        "lastModified": 1776391564,
+        "narHash": "sha256-ZroIfOcn3WU+cTSpYum8AZUgudOXLRkLiiePtPxPS7A=",
         "owner": "iErik",
         "repo": "dots.hyprland",
-        "rev": "fb461bcb04f1d3ccb6a14ee43f6d78b8e86c51c7",
+        "rev": "0c6f962bf79c2ed4c462b9f776300d5885b5e864",
         "type": "github"
       },
       "original": {
@@ -186,11 +186,11 @@
         "wallpapers": "wallpapers_2"
       },
       "locked": {
-        "lastModified": 1776388291,
-        "narHash": "sha256-Iz9pXvjD1Uk02KdRPN16OUMF3RDqQgCJFKjKoCAkXp4=",
+        "lastModified": 1776391522,
+        "narHash": "sha256-zGNgnxJjq2fIZUPzhgnqZEfUkkLSB5vyybPDzmPsGH0=",
         "owner": "iErik",
         "repo": "dots.niri",
-        "rev": "0d7f468b270a6ec0cf5da3a118bdc8d16cef64ce",
+        "rev": "88d56fc00bc4fac606f3e209404db6a223be8241",
         "type": "github"
       },
       "original": {
@@ -363,11 +363,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1774070915,
-        "narHash": "sha256-51WqcOmfdNmFI7U/zYn7L/prYmDyQz9XE9+LtPpHDl4=",
+        "lastModified": 1776391459,
+        "narHash": "sha256-zyCjLCV6ZrDVPnf57LFZMxgZLnq+k4F/l3j1roM7FXA=",
         "ref": "refs/heads/main",
-        "rev": "63b92a64c2638d7d2286f6648373ff311d3f5646",
-        "revCount": 20,
+        "rev": "ac6bf996bbb9829666b3311ab6044da591f05775",
+        "revCount": 21,
         "type": "git",
         "url": "ssh://git@github.com/iErik/Wallpapers"
       },
@@ -385,11 +385,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1774070915,
-        "narHash": "sha256-51WqcOmfdNmFI7U/zYn7L/prYmDyQz9XE9+LtPpHDl4=",
+        "lastModified": 1776391459,
+        "narHash": "sha256-zyCjLCV6ZrDVPnf57LFZMxgZLnq+k4F/l3j1roM7FXA=",
         "ref": "refs/heads/main",
-        "rev": "63b92a64c2638d7d2286f6648373ff311d3f5646",
-        "revCount": 20,
+        "rev": "ac6bf996bbb9829666b3311ab6044da591f05775",
+        "revCount": 21,
         "type": "git",
         "url": "ssh://git@github.com/iErik/Wallpapers"
       },
