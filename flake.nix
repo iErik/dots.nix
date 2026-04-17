@@ -14,6 +14,11 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
 
+    hyprland = {
+      url = "github:iErik/dots.hyprland";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
     nvim = {
       url = "github:iErik/dots.nvim";
       inputs.nixpkgs.follows = "nixpkgs";
@@ -41,6 +46,7 @@
       dots = {
         imports = [
           inputs.niri.homeManagerModules.default
+          inputs.hyprland.homeManagerModules.default
           inputs.nvim.homeManagerModules.default
           inputs.fish.homeManagerModules.default
           inputs.tmux.homeManagerModules.default
