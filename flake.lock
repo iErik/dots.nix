@@ -95,11 +95,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775090851,
-        "narHash": "sha256-Rwmi0Sn4C2exYBlDf9hWgB6yVq0aQSv9qUtk2b5uglw=",
+        "lastModified": 1776388922,
+        "narHash": "sha256-kHqZN2x3m/tyshg/tZ5UxYtb7w8pq8mLZ2woMSxj9hc=",
         "owner": "iErik",
         "repo": "dots.fish",
-        "rev": "e224276f4dd083b6beba1d02d0d0348b86d4ae5c",
+        "rev": "0d2f6c4040bf2956296ba6d63da2df345d322369",
         "type": "github"
       },
       "original": {
@@ -319,11 +319,11 @@
         "tmux-sessionx": "tmux-sessionx"
       },
       "locked": {
-        "lastModified": 1775105273,
-        "narHash": "sha256-qltw95lzOeq4FxjbDANhGYea0SErdJXxkeuKIwFXf1s=",
+        "lastModified": 1776388718,
+        "narHash": "sha256-2NRWMcDgGlOjINcz9jWAiVN07o8m+DeA+FPr2lCKmXU=",
         "owner": "iErik",
         "repo": "dots.tmux",
-        "rev": "2d8834762bc3bcfe013e2fb8b36c82a8a9bafeb1",
+        "rev": "b37c669a6823b1c2a66cced7d192aa5a6bccaabd",
         "type": "github"
       },
       "original": {
