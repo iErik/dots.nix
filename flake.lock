@@ -165,11 +165,11 @@
         "wallpapers": "wallpapers"
       },
       "locked": {
-        "lastModified": 1776395307,
-        "narHash": "sha256-w83F/Pr9qJD7Azf9kHo+MuIgompL2ZLHB7dhWPOZO5k=",
+        "lastModified": 1776395604,
+        "narHash": "sha256-kYguVwao9SpvgJjt4oNcLtODM9nOB5NOcfqfYmYye8M=",
         "owner": "iErik",
         "repo": "dots.hyprland",
-        "rev": "b05a919a30e25109777fa78618bc6c8dfa944960",
+        "rev": "dbdd677d3369b3ce89087429cd07f005509b6ea5",
         "type": "github"
       },
       "original": {
@@ -186,11 +186,11 @@
         "wallpapers": "wallpapers_2"
       },
       "locked": {
-        "lastModified": 1776395404,
-        "narHash": "sha256-PNijHp0z2VhVzU1oNAzrBdmlENvL6+vSk5YkqpzCka4=",
+        "lastModified": 1776395648,
+        "narHash": "sha256-ocBIKqDEPsQIz6T/2qTc9Hp2Qxog92WRdH7A9XIo8KY=",
         "owner": "iErik",
         "repo": "dots.niri",
-        "rev": "a2f2aa08f66698e7b7e6d80e3160498485f5efea",
+        "rev": "27d9b2a3e0ed34df8d7f4f5b05edb206eec6ab85",
         "type": "github"
       },
       "original": {
