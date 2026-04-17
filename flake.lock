@@ -35,11 +35,11 @@
         "rust-overlay": "rust-overlay_2"
       },
       "locked": {
-        "lastModified": 1770895252,
-        "narHash": "sha256-TUGZVDcC5xsrWVnpBNosAG1cTy+aWchCWXPyeLZdnGM=",
+        "lastModified": 1776083220,
+        "narHash": "sha256-78QngptaPiKhlDuhUMrN/GDSHhXtEgMqnRSe3sjhjhM=",
         "ref": "refs/heads/main",
-        "rev": "2c86d41d07471f518e24f5cd1f586e4d2a32d12c",
-        "revCount": 1331,
+        "rev": "27d68a7b8b81b3b9afced39b32e06639d470c040",
+        "revCount": 1353,
         "type": "git",
         "url": "https://codeberg.org/LGFae/awww"
       },
@@ -186,11 +186,11 @@
         "wallpapers": "wallpapers_2"
       },
       "locked": {
-        "lastModified": 1775080282,
-        "narHash": "sha256-OzNXHXDZvzxampyiaEeRTiroOSWe5twj6d251+adg/o=",
+        "lastModified": 1776388291,
+        "narHash": "sha256-Iz9pXvjD1Uk02KdRPN16OUMF3RDqQgCJFKjKoCAkXp4=",
         "owner": "iErik",
         "repo": "dots.niri",
-        "rev": "b99e7b1b24551e2a4755bae743472cfafbb40336",
+        "rev": "0d7f468b270a6ec0cf5da3a118bdc8d16cef64ce",
         "type": "github"
       },
       "original": {
