@@ -165,11 +165,11 @@
         "wallpapers": "wallpapers"
       },
       "locked": {
-        "lastModified": 1776397197,
-        "narHash": "sha256-ISkF6GzSWCmf1UTIeUkqxhwwuOQ+SsIxbcvdwaCVNwM=",
+        "lastModified": 1776397601,
+        "narHash": "sha256-FnSoMQTxfYZtm5Vwp3AeDcqAlgBhQaMkzQDhg2orH7s=",
         "owner": "iErik",
         "repo": "dots.hyprland",
-        "rev": "7d8e28d36dfaeb18256434230e3b2b77c8d8354a",
+        "rev": "d522271c95bb9b11dbefc78f7d0589321d4215c9",
         "type": "github"
       },
       "original": {
