@@ -165,11 +165,11 @@
         "wallpapers": "wallpapers"
       },
       "locked": {
-        "lastModified": 1776397601,
-        "narHash": "sha256-FnSoMQTxfYZtm5Vwp3AeDcqAlgBhQaMkzQDhg2orH7s=",
+        "lastModified": 1776397821,
+        "narHash": "sha256-i3Q2mftU3eWH9rZLs15Egd7yZB5E/XHYEtxihaheCjo=",
         "owner": "iErik",
         "repo": "dots.hyprland",
-        "rev": "d522271c95bb9b11dbefc78f7d0589321d4215c9",
+        "rev": "3be3ea2568315949a5c76b02d8e6f653b35f46ba",
         "type": "github"
       },
       "original": {
@@ -186,11 +186,11 @@
         "wallpapers": "wallpapers_2"
       },
       "locked": {
-        "lastModified": 1776395648,
-        "narHash": "sha256-ocBIKqDEPsQIz6T/2qTc9Hp2Qxog92WRdH7A9XIo8KY=",
+        "lastModified": 1777597892,
+        "narHash": "sha256-MJwN+h/1w8OYduhjlNhKEVECv8YGQ8eT/52mbAK3QW0=",
         "owner": "iErik",
         "repo": "dots.niri",
-        "rev": "27d9b2a3e0ed34df8d7f4f5b05edb206eec6ab85",
+        "rev": "4f2acb5b01ee83fb2443305ca93f22c9e7e61d9a",
         "type": "github"
       },
       "original": {
@@ -201,11 +201,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1776169885,
-        "narHash": "sha256-l/iNYDZ4bGOAFQY2q8y5OAfBBtrDAaPuRQqWaFHVRXM=",
+        "lastModified": 1777268161,
+        "narHash": "sha256-bxrdOn8SCOv8tN4JbTF/TXq7kjo9ag4M+C8yzzIRYbE=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "4bd9165a9165d7b5e33ae57f3eecbcb28fb231c9",
+        "rev": "1c3fe55ad329cbcb28471bb30f05c9827f724c76",
         "type": "github"
       },
       "original": {
