@@ -35,11 +35,11 @@
         "rust-overlay": "rust-overlay_2"
       },
       "locked": {
-        "lastModified": 1776083220,
-        "narHash": "sha256-78QngptaPiKhlDuhUMrN/GDSHhXtEgMqnRSe3sjhjhM=",
+        "lastModified": 1784030954,
+        "narHash": "sha256-MPMVSBhSEl+ShSrWVN5qH3FiX2gg8LbYA8L3nuQw5VE=",
         "ref": "refs/heads/main",
-        "rev": "27d68a7b8b81b3b9afced39b32e06639d470c040",
-        "revCount": 1353,
+        "rev": "25ea4fd7a42359379da9ddadedda1c477caa4ae0",
+        "revCount": 1376,
         "type": "git",
         "url": "https://codeberg.org/LGFae/awww"
       },
@@ -95,11 +95,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1776388922,
-        "narHash": "sha256-kHqZN2x3m/tyshg/tZ5UxYtb7w8pq8mLZ2woMSxj9hc=",
+        "lastModified": 1777612688,
+        "narHash": "sha256-hNmqeeghejCh6OuIKMeVk2iuC6zG0DfVHi/RLBvHQvI=",
         "owner": "iErik",
         "repo": "dots.fish",
-        "rev": "0d2f6c4040bf2956296ba6d63da2df345d322369",
+        "rev": "9e01ad96420e213f871bcf3594901e00586c2bc3",
         "type": "github"
       },
       "original": {
@@ -186,11 +186,11 @@
         "wallpapers": "wallpapers_2"
       },
       "locked": {
-        "lastModified": 1777597892,
-        "narHash": "sha256-MJwN+h/1w8OYduhjlNhKEVECv8YGQ8eT/52mbAK3QW0=",
+        "lastModified": 1787712065,
+        "narHash": "sha256-D/PxxomZQ+0yzS8LLS8tWqTFjfYn0cQiXUec15zbdwM=",
         "owner": "iErik",
         "repo": "dots.niri",
-        "rev": "4f2acb5b01ee83fb2443305ca93f22c9e7e61d9a",
+        "rev": "adf8d4fab080de162ad0c3da49d66de05324cb4d",
         "type": "github"
       },
       "original": {
@@ -201,11 +201,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1777268161,
-        "narHash": "sha256-bxrdOn8SCOv8tN4JbTF/TXq7kjo9ag4M+C8yzzIRYbE=",
+        "lastModified": 1789006805,
+        "narHash": "sha256-xB8mKMOx1IA9vTDNLmJZ6n4wCMq/cuWBBOzGCRnqxrU=",
         "owner": "nixos",
         "repo": "nixpkgs",
-        "rev": "1c3fe55ad329cbcb28471bb30f05c9827f724c76",
+        "rev": "8ce4ef6cb6f871616146b9fe26d2a5ae594e94fe",
         "type": "github"
       },
       "original": {
@@ -319,11 +319,11 @@
         "tmux-sessionx": "tmux-sessionx"
       },
       "locked": {
-        "lastModified": 1776388718,
-        "narHash": "sha256-2NRWMcDgGlOjINcz9jWAiVN07o8m+DeA+FPr2lCKmXU=",
+        "lastModified": 1783728960,
+        "narHash": "sha256-YJEfvY4tWsLdlgNrSbzZDsmctB6VWpmZjKurmPdajoc=",
         "owner": "iErik",
         "repo": "dots.tmux",
-        "rev": "b37c669a6823b1c2a66cced7d192aa5a6bccaabd",
+        "rev": "865df45efca39b62d3e2a2b8829d96bf0dd106a8",
         "type": "github"
       },
       "original": {
@@ -385,11 +385,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1776391459,
-        "narHash": "sha256-zyCjLCV6ZrDVPnf57LFZMxgZLnq+k4F/l3j1roM7FXA=",
+        "lastModified": 1787626589,
+        "narHash": "sha256-8D6EAlWuddYni+fk9g4Nd3kBj3bMr2hwO7MtxJxZQ8E=",
         "ref": "refs/heads/main",
-        "rev": "ac6bf996bbb9829666b3311ab6044da591f05775",
-        "revCount": 21,
+        "rev": "f2b597063e05428fd04dc71acc425076a7d4deda",
+        "revCount": 24,
         "type": "git",
         "url": "ssh://git@github.com/iErik/Wallpapers"
       },
